@@ -1,0 +1,11 @@
+{
+  "org": "darvid",
+  "repo": "python-hyperscan",
+  "versions": [
+    {
+      "commit": "64201bb15021a2c6bcaffeed921c84e306d7e0fc",
+      "tag": "v0.9.1",
+      "parsed_at": "2026-11-06T03:11:03.961994+00:00"
+    }
+  ]
+}
