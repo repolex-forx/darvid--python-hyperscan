@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/darvid/python-hyperscan/commit/64201bb15021a2c6bcaffeed921c84e306d7e0fc",
       "git:hexsha": "64201bb15021a2c6bcaffeed921c84e306d7e0fc",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.9.1"
     },
     {
