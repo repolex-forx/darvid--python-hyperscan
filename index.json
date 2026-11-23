@@ -3,6 +3,11 @@
   "repo": "python-hyperscan",
   "versions": [
     {
+      "commit": "7fcecdc14e50cca0ae06671ef9bfcaa669b5abe1",
+      "tag": "v0.8.2",
+      "parsed_at": "2026-11-23T05:14:25.873768+00:00"
+    },
+    {
       "commit": "64201bb15021a2c6bcaffeed921c84e306d7e0fc",
       "tag": "v0.9.1",
       "parsed_at": "2026-11-06T03:11:03.961994+00:00"
