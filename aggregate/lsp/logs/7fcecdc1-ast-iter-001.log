@@ -1,0 +1,7 @@
+[2026-11-23T05:07:18Z] === AST ITERATION 1 START | repo=darvid/python-hyperscan sha=7fcecdc1 ===
+[2026-11-23T05:07:18Z] [iter=1] PHASE START: ast repo=darvid/python-hyperscan sha=7fcecdc1
+[2026-11-23T05:07:18Z] [iter=1] Building AST aggregate chunks
+[2026-11-23T05:07:36Z] [iter=1] AST chunks built count=1 triples=151192
+[2026-11-23T05:07:36Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7fcecdc14e50cca0ae06671ef9bfcaa669b5abe1/.complete
+[2026-11-23T05:07:36Z] [iter=1] PHASE END: ast elapsed_s=18 elapsed_min=0.3
+[2026-11-23T05:07:36Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
